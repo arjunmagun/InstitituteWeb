@@ -1,0 +1,29 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.top-about{
+    background-color: #c4c2c2;
+    margin: 50px auto;
+}
+
+.top-about h1{
+    margin: 30px auto;
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.top-about p{
+    width: 70%;
+    margin: auto;
+    font-size: 1.2rem;
+}
+
+.illustration{
+    width: 400px;
+    height: 400px;
+    float: right;
+}

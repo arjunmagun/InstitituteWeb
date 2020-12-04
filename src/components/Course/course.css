@@ -1,0 +1,14 @@
+.course_image {
+  width: 100%;
+  height: 100%;
+}
+
+.title_course {
+  font-size: 3em;
+  text-align: center;
+  margin: 20px;
+}
+
+.course_description {
+  font-size: 1.5em;
+}
